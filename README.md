@@ -22,9 +22,9 @@ Focusing on client satisfaction and providing quality service. Delivering pixel-
 <br>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/bilashism)  -->
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bilashism)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilashism)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bilashism) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilashism)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilashism&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilashism&show_icons=true)   -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bilashism)   -->
 
