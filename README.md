@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋,</h2>
 
 # I'm Md. Taifuzzaman Bilash
-### Front End Web Developer
+### MERN Stack Web Developer
 
 ![Front End Web Developer](https://pbs.twimg.com/profile_banners/1054559594817609728/1618968143/1500x500)
 
