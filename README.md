@@ -53,7 +53,7 @@ Dedicated web developer with three years of experience in frontend development. 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/bilashism)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilashism)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bilashism)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilashism&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bilashism)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilashism&show_icons=true)   -->
 
