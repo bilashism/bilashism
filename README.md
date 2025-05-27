@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi there 👋,</h2>
 
-# I'm Md. Taifuzzaman Bilash
+# I'm Md Taifuzzaman Bilash
 ### MERN Stack Web Developer
 
 <br>
