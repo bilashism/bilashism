@@ -9,7 +9,7 @@
 
 Dedicated web developer with three years of experience in frontend development. Team player with an eye for detail. Focusing on user-friendly and accessible applications. Quick learner & love to learn new web technologies.
 
-- 🌐 Checkout my [**portfolio website**](https://portfolio-of-bilash.vercel.app)
+- 🌐 Checkout my [**portfolio website**](https://bilash.dev)
 - 💼 Reach out to me [_Email Now_](mailto:bilashism@gmail.com)
 - 💬 Ask me about anything, I am happy to help 🙂
 
