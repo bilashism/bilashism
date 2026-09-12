@@ -1,62 +1,125 @@
-![Md. Taifuzzaman Bilash - MERN Stack Web Developer](./assets/MERN%20Stack%20Developer.png)
+![Md. Taifuzzaman Bilash - MERN Stack Web Developer](./assets/banner.png)
+# Hi there, I'm Md Taifuzzaman Bilash 👋
 
-<h2 align="center"> Hi there 👋,</h2>
+### **Senior Full-Stack Web Developer with AI Solutions**
+*Building conversion-driven web platforms, AI-native workflows, and automated systems for high-growth founders and product teams.*
 
-# I'm Md Taifuzzaman Bilash
-### MERN Stack Web Developer
+---
 
-<br>
+[![Website](https://img.shields.io/badge/Website-bilash.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bilash.dev)
+[![Email](https://img.shields.io/badge/Email-bilashism%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilashism@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801706053414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801706053414)
+[![Rating](https://img.shields.io/badge/Client_Rating-5.0_%2F_5.0-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://bilash.dev)
 
-Dedicated web developer with three years of experience in frontend development. Team player with an eye for detail. Focusing on user-friendly and accessible applications. Quick learner & love to learn new web technologies.
+---
 
-- 🌐 Checkout my [**portfolio website**](https://bilash.dev)
-- 💼 Reach out to me [_Email Now_](mailto:bilashism@gmail.com)
-- 💬 Ask me about anything, I am happy to help 🙂
+### ⚡ Key Highlights & Impact
+```text
+┌───────────────────────────┬───────────────────────────┬───────────────────────────┐
+│ 🚀 52+ Projects Delivered │ ⭐ 5.0/5 Avg Client Rating │ 🧠 AI Integration Expert  │
+│ 💻 8+ Years Engineering   │ 🌍 41+ Global Brands      │ ⚡ AI-Assisted Speed     │
+└───────────────────────────┴───────────────────────────┴───────────────────────────┘
+```
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/bilashism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
-<a href="https://twitter.com/bilashism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://fb.com/bilashism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://codepen.io/bilashism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-</p>
+---
 
-<br>
+## 🤖 AI Engineering, Automation & Assisted Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+I bridge the gap between cutting-edge AI capabilities and production-ready web applications. Whether building AI-native features for end-users or leveraging AI-assisted workflows to ship code 3x faster, I focus on measurable business outcomes and resilient system architecture.
 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</p>
+### 🧠 Core AI & Automation Expertise
+* **AI Feature Engineering:** Implementing Retrieval-Augmented Generation (**RAG**), Model Context Protocol (**MCP**), custom **LLM** integrations (OpenAI GPT-4o, Claude API), AI Agents, and specialized AI Chatbots.
+* **Computer Vision & Media Pipelines:** Automated HDR image merging, AI photo decluttering, automated virtual staging, and AI video generation pipelines (Autoenhance AI, ChatGPT image editing).
+* **AI-Assisted Development Workflow:** Utilizing **Cursor**, **Lovable**, **GitHub Copilot**, and tailored prompt engineering to rapidly prototype, write type-safe code, and optimize production applications.
+* **Workflow & Ops Automation:** Designing autonomous automation workflows with **N8N**, **OpenClaw**, background job queues (**BullMQ**), webhooks, and custom Google Apps Script automation.
 
-<br>
+---
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/bilashism)  -->
+## 🚀 Featured AI & Full-Stack Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilashism&langs_count=10&layout=compact) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bilashism)
+### 🏢 [Prime Perspectives](https://app.primeperspectives.com) — *UK Property Marketing & AI Platform*
+* **Stack:** Next.js / TanStack Start, Supabase, TypeScript, Tailwind CSS, Autoenhance AI, OpenAI (GPT-4o), Stripe
+* **AI Features:** Integrates GPT-4o to automatically analyze shoot photos and metadata to generate ready-to-publish estate agent listing descriptions. Features AI photo decluttering and Autoenhance AI HDR photo processing.
+* **Impact:** Streamlined property marketing operations for UK estate agents, replacing fragmented manual workflows with an automated, single-dashboard experience.
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilashism&show_icons=true)   -->
+### 📸 [Kocka](https://kocka.homes) — *Real-Estate Media & AI Production Suite*
+* **Stack:** React, TanStack Query, React Hook Form, JWT, Node.js, AI Processing Services
+* **AI Features:** One-click AI photo polish (day-to-dusk conversion, room decluttering), digital virtual staging for empty properties, and automated AI listing video generation.
+* **Impact:** Fully automated real-estate shoot bookings, media delivery, and AI asset creation, with per-run usage logging for studio cost control.
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bilashism)   -->
+### 🎓 [Tutor Lim (Next.js)](https://tutorlim.com.au) — *AI-Powered EdTech & Tutoring Platform*
+* **Stack:** Next.js, TypeScript, React Router, TanStack Query, JWT Authentication
+* **AI Features:** AI-driven tutor matching algorithm based on student learning needs, automated knowledge-gap detection, and smart academic progress tracking.
+* **Impact:** Connects students across Australia with top-tier STEM and humanities tutors through personalized, data-driven learning paths.
 
+### 🎮 [FullBoosts](https://fullboosts.com) — *Global Gaming Marketplace*
+* **Stack:** TypeScript, React, Node.js, Express.js, MongoDB, Mongoose, Stripe, Payoneer
+* **Features:** Custom full-stack e-commerce marketplace connecting global gamers with buyers and suppliers, complete with real-time analytics dashboards.
+
+---
+
+## 🛠️ Technical Stack & Tooling
+
+```markdown
+┌──────────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ Category             │ Technologies & Frameworks                                              │
+├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 🤖 AI & Automation   │ MCP, RAG, LLM, OpenAI, Claude, Cursor, Lovable, Copilot,              │
+│                      │ N8N, OpenClaw, Autoenhance AI, AI Agents & Chatbots                    │
+├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 💻 Frontend          │ Next.js 15 (App Router, RSC), React 19, TypeScript, Tailwind CSS v4,   │
+│                      │ Framer Motion, Shadcn UI, TanStack Query/Start, Redux, Zustand, WebGL  │
+├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ ⚙️ Backend & API     │ Node.js 22, Express.js, Nest.js, Hono, Fastify, REST APIs, GraphQL,    │
+│                      │ Better Auth, Clerk, JWT, Webhooks, WebSockets                          │
+├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 🗄️ Database & Cloud  │ PostgreSQL, Supabase, Prisma, Drizzle, MongoDB, Mongoose, Firebase,    │
+│                      │ Docker, VPS (SQS/EventBridge), Vercel, Cloudflare, CI/CD, Nginx        │
+├──────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 📦 CMS & Commerce    │ Payload CMS, Headless WordPress (WPGraphQL), Shopify 2.0 (Liquid/      │
+│                      │ Hydrogen), HubSpot CMS, Squarespace Developer Platform                 │
+└──────────────────────┴────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💼 Work Experience Timeline
+
+* **Senior Full Stack Web Developer** @ *Prime Perspectives (UK)* | **May 2025 – Present**
+  * Leading full-stack engineering with Next.js, TypeScript, PostgreSQL, and Supabase; building AI property marketing automation tools.
+* **Full Stack Developer** @ *Dashboard Lim (Australia)* | **May 2024 – May 2025**
+  * Engineered data dashboards and full-stack web architectures with TypeScript.
+* **Full Stack Developer** @ *FullBoosts (Israel)* | **Jun 2023 – Oct 2024**
+  * Led frontend and backend engineering for a high-traffic gaming marketplace platform.
+* **Frontend Developer** @ *HearthPwn (Czech Republic)* | **Feb 2022 – Dec 2022**
+  * Built internal operations automation tools allowing instant batch processing of 500+ articles.
+* **Senior Freelance Web Developer & Consultant** @ *Upwork & Fiverr* | **2018 – Present**
+  * Completed 50+ projects for 41+ clients across 14 countries with a **5.0/5.0 rating** across 60+ verified client reviews.
+
+---
+
+## 💬 What Leaders & Founders Say
+
+> *"Bilash was a pleasure to work with. He is highly professional, responsive, and skilled at solving problems efficiently... I would highly recommend him to anyone looking for a reliable and knowledgeable developer."*  
+> — **Mira S.**, Switzerland ⭐⭐⭐⭐⭐
+
+> *"Working with T. Bilash was an absolute pleasure! He went above and beyond, not only delivering exactly what we needed but also providing insightful recommendations that we hadn't even considered."*  
+> — **Jeremy H.**, United States ⭐⭐⭐⭐⭐
+
+> *"I am very impressed with the work done... He is extremely knowledgeable and has some great ideas for my site. He really listens to my needs and delivers exactly what I want."*  
+> — **Kam S.**, United Kingdom ⭐⭐⭐⭐⭐
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+I partner with founders, CTOs, and product leaders to design, build, and ship performant, AI-enhanced web platforms.
+
+* 🌐 **Portfolio Website:** [bilash.dev](https://bilash.dev)
+* 📧 **Direct Email:** [bilashism@gmail.com](mailto:bilashism@gmail.com)
+* 📱 **WhatsApp:** [+8801706053414](https://wa.me/8801706053414)
+* 📅 **Book a Call:** [Schedule a Strategy Call](https://bilash.dev/#contact)
+* 📍 **Location:** Dhaka, Bangladesh (Remote worldwide | Flexible timezone alignment for US, UK, AU)
+
+---
 ![](https://komarev.com/ghpvc/?username=bilashism&color=green)
