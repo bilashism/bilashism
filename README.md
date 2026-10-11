@@ -37,7 +37,7 @@ I bridge the gap between cutting-edge AI capabilities and production-ready web a
 
 ## 🚀 Featured AI & Full-Stack Projects
 
-### 🏢 [Prime Perspectives](https://app.primeperspectives.com) — *UK Property Marketing & AI Platform*
+### 🏢 [Prime Perspectives](https://bookings.primeperspectives.com) — *UK Property Marketing & AI Platform*
 * **Stack:** Next.js / TanStack Start, Supabase, TypeScript, Tailwind CSS, Autoenhance AI, OpenAI (GPT-4o), Stripe
 * **AI Features:** Integrates GPT-4o to automatically analyze shoot photos and metadata to generate ready-to-publish estate agent listing descriptions. Features AI photo decluttering and Autoenhance AI HDR photo processing.
 * **Impact:** Streamlined property marketing operations for UK estate agents, replacing fragmented manual workflows with an automated, single-dashboard experience.
